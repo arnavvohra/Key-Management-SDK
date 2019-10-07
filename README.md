@@ -9,7 +9,7 @@ Key management architecture : https://medium.com/coinsafeapp/coinsafe-has-zero-k
 
 ### How do I set it up?
 
-git clone https://github.com/tarun1475/key-management-sdk
+git clone https://github.com/arnavvohra/Key-Management-SDK
 
 cd key-management-sdk
 
@@ -238,5 +238,5 @@ const recoveryTrustData = createRecoveryTrustData(devices, publicKey);
 
 ### Core Contributors
 
-- ([Tarun Gupta](https://github.com/tarun1475))
 - ([Arnav Vohra](https://github.com/arnavvohra))
+- ([Tarun Gupta](https://github.com/tarun1475))
